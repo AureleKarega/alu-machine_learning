@@ -1,5 +1,5 @@
-
-rms a convolution on grayscale images with custom padding"""
+#!/usr/bin/env python3
+"""Performs a convolution on grayscale images with custom padding"""
 import numpy as np
 
 
