@@ -1,5 +1,5 @@
-
-rms a same convolution on grayscale images"""
+#!/usr/bin/env python3
+"""Performs a same convolution on grayscale images"""
 import numpy as np
 
 
